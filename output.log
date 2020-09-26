@@ -1,0 +1,14 @@
+No. Of Data Points   			= 30
+No. Of Query Points  			= 2
+Value of M in R-tree 			= 4
+Total Convex Hull pts			= 2
+Convex Hull exec time			= 4.291534423828125e-06s
+Total Nodes in RTree 			= 45
+Data points MBR area 			= 0.9491525819034431units
+Query points MBR area			= 0.05230119605435811units
+Data Points Rect     			= [(0.02865726604536134, 0.002958865000610822), (0.9904962174659245, 0.989769162609807)]
+Query Points Rect    			= [(0.732873358490085, 0.5077260280786663), (0.8488180814410531, 0.9588133628293454)]
+Query Points MBR %age			= 0.05510304354803798
+Algorithm run time    			= 0.003389120101928711s
+No, of Dominance Check			= 38
+R-tree Nodes accessed 			= 13

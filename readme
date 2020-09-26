@@ -1,0 +1,11 @@
+python code spatial skyline queries using B2S2 algorithm as specified in following:
+	-https://infolab.usc.edu/DocsDemos/sharifzadeh_vldb06_440.pdf
+
+Install all the requirements mentioned in requirements.txt file.
+
+How to run:
+	
+	$ python b2s2_algo.py --data data_file --query query_file
+
+Both data and query file should have the following format:
+	-x y in each line of the file.
